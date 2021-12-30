@@ -1,2 +1,2 @@
-# cold_man.github.io
+# cold-man-super.github.io
 HEXO
